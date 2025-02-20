@@ -4,6 +4,7 @@ Kullanıcılar, günlük besin tüketimlerini, kalori hedeflerini ve egzersiz bi
 
 🚀 Özellikler
 📝 Kullanıcı Dostu Arayüz (Qt Designer ile tasarlandı)
+
 🍽️ Yemek ve Kalori Takibi
 📅 Günlük/Haftalık Raporlama
 ⚡ BMI (Vücut Kitle İndeksi) Hesaplama
